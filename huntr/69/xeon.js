@@ -1,0 +1,3 @@
+{
+	"name": "HUNTER Multi Device "
+}
